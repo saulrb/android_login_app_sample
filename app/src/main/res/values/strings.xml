@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LABORATORIO_Login</string>
+    <string name="banco_mundial">Banco Mundial</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="recuperar_contraseña">Olvidades contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="usuario">usuario</string>
+    <string name="password">contraseña</string>
+    <string name="password_conf">confirmar contraseña</string>
+    <string name="new_password">nueva contraseña</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="modificar_contrasena">Modificar Contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="salir">Salir</string>
+</resources>
